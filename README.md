@@ -15,4 +15,4 @@
 ## Autores
 
 * Henriquehlr => Henrique Lucas Rodrigues.
-* jfsantos011 => Jão Fernando dos Santos. 
+* jfsantos011 => João Fernando dos Santos. 
